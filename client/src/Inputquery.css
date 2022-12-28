@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.head {
+    color: black;
+    padding: 20px;
+    font-size: 40px;
+    font-family: Raleway;
+  }
+
+  .query {
+    color: black;
+    padding: 5px;
+    font-size: 20px;
+    font-family: Raleway;
+  }
+  
+div.left {
+    width: 45%;
+    float: left;
+    color: black;
+    padding: 20px;
+    font-size: 40px;
+    font-family: Raleway;
+}
+
+div.right {
+    width: 45%;
+    float: right;
+    color: black;
+    padding: 20px;
+    font-size: 40px;
+    font-family: Raleway;
+}
