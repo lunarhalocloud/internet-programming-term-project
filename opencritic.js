@@ -25,7 +25,7 @@ const getHtml = async () => {
                replace("Jun","June").replace("Jul","July").
                replace("Aug","August").replace("Sep","September").replace("Oct","October").
                replace("Nov","November").replace("Dec","December").trim() + ", 2022",
-               scroe: bodyList.eq(j).find("div:eq(1)").text().trim()
+               score: bodyList.eq(j).find("div:eq(1)").text().trim()
             };
          }
       }
